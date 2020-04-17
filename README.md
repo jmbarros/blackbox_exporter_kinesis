@@ -1,5 +1,5 @@
 # blackbox exporter to kinesis
-Script to run blackbox exporter and send the output to AWS Kinesis without Prometheus.
+Application to run blackbox exporter and send the output to AWS Kinesis without Prometheus.
 
 ## How use:
     - configure on blackbox_exporter 
